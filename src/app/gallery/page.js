@@ -5,11 +5,11 @@ const GalleryPage = () => {
     return (
         <div className='text-center'>
 
-            <h1>Regular Image Tag.</h1>
+            {/* <h1>Regular Image Tag.</h1>
             <img className='mx-auto' src='https://miro.medium.com/v2/resize:fit:1000/1*KDMx1YspSrBcFJG-NDZgDg.png'
                 alt='next image'
                 width={500}
-                height={500} />
+                height={500} /> */}
             
             <h1>NextJS Image Component.</h1>
             <Image className='mx-auto' src='https://miro.medium.com/v2/resize:fit:1000/1*KDMx1YspSrBcFJG-NDZgDg.png'

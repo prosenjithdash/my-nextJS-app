@@ -6,7 +6,7 @@ const DynamicProductPage = async ({ params, searchParams }) => {
 
     return (
         <div>
-            <h1 className='text-2xl text-center '>It's a Dynamic Product Page { productId}</h1>
+            <h1 className='text-2xl text-center '>It is a Dynamic Product Page { productId}</h1>
         </div>
     );
 };

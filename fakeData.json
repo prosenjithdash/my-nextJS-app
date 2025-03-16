@@ -1,0 +1,29 @@
+{
+    "products":[
+  {
+    "id": 1,
+    "productName": "MacBook Pro 16-inch",
+    "category": "Laptop",
+    "brand": "Apple",
+    "price": 2499,
+    "image": "https://www.techlandbd.com/image/cache/catalog/Laptop/Apple/Macbook-pro/MacBook%20Pro%2016-Inch%20Space%20Gray%202021/MacBook%20Pro%2016-Inch%20Space%20Gray-600x315w.jpg"
+  },
+  {
+    "id": 2,
+    "productName": "Dell XPS 15",
+    "category": "Laptop",
+    "brand": "Dell",
+    "price": 1899,
+    "image": "https://istockbd.com/cdn/shop/products/Dell-XPS-15-price-in-Bangladesh_iStock-BD.jpg?v=1669620788"
+  },
+  {
+    "id": 3,
+    "productName": "ASUS ROG Zephyrus G14",
+    "category": "Laptop",
+    "brand": "ASUS",
+    "price": 1599,
+    "image": "https://cdn.mos.cms.futurecdn.net/3VpzFCHbyJ7i4JdA3ZdD6V.jpg"
+  }
+]
+
+}
