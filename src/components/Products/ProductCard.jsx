@@ -25,7 +25,7 @@ export default function ProductCard({ product }) {
                 <p className="text-sm text-gray-600 mb-4">
                     Brand:<span className="font-medium">{product.brand}</span>
                 </p>
-                {/* <p className="text-xl font-bold text-blue-600 mt-4">{ }</p> */}
+                <p className="text-xl font-bold text-blue-600 mt-4">${product.price }</p>
                 <div className="flex justify-between">
                     <Link href={`/product/${product.id}`} className="bg-black text-white py-2 px-5 rounded-lg transition-all">
                     See Details
