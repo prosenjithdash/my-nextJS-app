@@ -23,7 +23,39 @@
     "brand": "ASUS",
     "price": 799,
     "image": "https://cdn.mos.cms.futurecdn.net/3VpzFCHbyJ7i4JdA3ZdD6V.jpg"
-  }
+  },
+  {
+      "id": 4,
+      "productName": "HP Spectre x360 16",
+      "category": "Laptop",
+      "brand": "HP",
+      "price": 899,
+      "image": "https://computermania.com.bd/wp-content/uploads/2025/01/HP-Spectre-16-F1013DX-in-BD.jpg"
+    },
+    {
+      "id": 5,
+      "productName": "Lenovo ThinkPad X1 Carbon Gen 11",
+      "category": "Laptop",
+      "brand": "Lenovo",
+      "price": 1099,
+      "image": "https://www.custommacbd.com/cdn/shop/files/Lenovo-ThinkPad-X1-Custom-MacBD.jpg?v=1693827387"
+    },
+    {
+      "id": 6,
+      "productName": "Acer Swift 5",
+      "category": "Laptop",
+      "brand": "Acer",
+      "price": 749,
+      "image": "https://cdn.uc.assets.prezly.com/f7672b8c-f2d1-4318-9d80-e7afcf06ce3d/-/crop/3000x1999/0,158/-/preview/Swift_5_SF514-54T_SF514-54GT_02_recommended.jpg"
+    },
+    {
+      "id": 7,
+      "productName": "Microsoft Surface Laptop 5",
+      "category": "Laptop",
+      "brand": "Microsoft",
+      "price": 999,
+      "image": "https://www.custommacbd.com/cdn/shop/files/surface-laptop-5-Custom-Mac-BD_aca8959f-adc2-476c-bba4-0454d72114a3.jpg?v=1682747030"
+    }
 ]
 
 }

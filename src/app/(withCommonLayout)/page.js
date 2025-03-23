@@ -58,6 +58,7 @@
 
 
 import ProductCard from '@/components/Products/ProductCard';
+import Link from 'next/link';
 import React from 'react';
 
 const HomePage = async () => {
@@ -77,9 +78,15 @@ const HomePage = async () => {
 
       <div className='grid grid-cols-3 gap-8 w-[90%] mx-auto my-10'>
         {
-          products.map(product => <ProductCard key={product.id} product={product}/>)
+          products.slice(0,3).map((product) => <ProductCard key={product.id} product={product}/>)
         }
       </div>
+
+      <div className='text-center my-20'>
+        <Link href='/products' className="bg-black text-white py-2 px-5 rounded-lg transition-all ">
+                    See more...
+                    </Link>
+       </div>
     </div>
   );
 };
