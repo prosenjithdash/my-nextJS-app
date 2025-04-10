@@ -8,7 +8,7 @@ const CommonLayout = ({children}) => {
             {/* Not Global */}
             {/* <Navbar/> */} 
             {children}
-            <Footer/>
+            {/* <Footer/> */}
         </div>
     );
 };
