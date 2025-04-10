@@ -5,7 +5,8 @@ import React from 'react';
 const CommonLayout = ({children}) => {
     return (
         <div>
-            <Navbar/>
+            {/* Not Global */}
+            {/* <Navbar/> */} 
             {children}
             <Footer/>
         </div>
